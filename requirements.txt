@@ -1,3 +1,4 @@
+--use-deprecated=legacy-resolver
 accelerate==1.5.1
 aiohappyeyeballs==2.6.1
 aiohttp==3.11.13
